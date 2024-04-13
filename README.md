@@ -55,7 +55,6 @@
    ```pip install -r requirements. txt```
 5. Создайте файл private_infomration_1196494.py, в котором укажите API телеграм бота, который будет использоваться и API для гугл таблицы, куда будет сохраняться информация:
    ```
-   # sensitive.py
    API_KEY='dsfsdf234234$asdasd'
    Google_sheets_API_details='sasdaffdgdfgfdfgsdfsfsd2131312'
    ```
